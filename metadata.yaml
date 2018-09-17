@@ -1,0 +1,24 @@
+_repo: Die-Karikatur-im-Weltkriege_52299
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schulz-Besser, Ernst
+    birthdate: 1873
+    gutenberg_agent_id: '46772'
+    url: http://www.gutenberg.org/2009/agents/46772
+description: ''
+gutenberg_issued: '2016-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52299'
+  lccn: '23002691'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Humor, caricatures, etc.'
+- !lcc 'D501'
+- GITenberg
+title: Die Karikatur im Weltkriege
+url: http://www.gutenberg.org/ebooks/52299
